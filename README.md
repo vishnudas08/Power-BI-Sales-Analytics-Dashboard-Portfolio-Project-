@@ -18,7 +18,7 @@ Visual enhancements including histograms, zoom sliders, gauges, and conditional 
 Interactive slicers, bookmarks, and tooltips for enriched user experience
 
 Publication-ready dashboard published to Power BI Service
-Technology Stack
+# Technology Stack
 Power BI Desktop for report creation
 
 DAX for writing measures and calculations
@@ -27,8 +27,13 @@ Power Query for data preparation
 
 GitHub for version control and portfolio sharing
 
-Data Description
+# Data Description
 The dataset represents sales transactions from a fictitious chocolate business including shipment details, product costings, geography, salesperson information, and date dimensions.
 
-Getting Started
+# Getting Started
 Download the .pbix Power BI report file from this repository.
+Open the file in Power BI Desktop.
+Explore the various pages featuring dashboards and reports.
+Interact with visuals and slicers to analyze sales data.
+Customize or extend the report based on your requirements.
+
