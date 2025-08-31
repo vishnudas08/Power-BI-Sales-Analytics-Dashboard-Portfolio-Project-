@@ -42,9 +42,14 @@ Use this project as a learning tool for Power BI dashboard development.
 
 Refer to the DAX formulas and data model setup to build your own reports.
 
+
+
 Deploy or modify the dashboard according to your business needs.
 
 Share feedback or contribute improvements via GitHub pull requests.
 
 # Credits
 This project is inspired by and follows the complete tutorial masterclass provided by Chandoo.org (video and files available on YouTube).
+
+<img width="1269" height="784" alt="image" src="https://github.com/user-attachments/assets/87c1fdcb-3b69-4b59-a5a2-08c2c64bb0f2" />
+
